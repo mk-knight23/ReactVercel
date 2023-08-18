@@ -15,7 +15,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <h1>React App </h1>
+          <h1>MK React Using CHATGPT </h1>
           <nav>
             <ul>
               <li>
