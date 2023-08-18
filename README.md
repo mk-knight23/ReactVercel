@@ -1,5 +1,8 @@
 # https://react-vercel-ebon.vercel.app
 
+# https://singular-gingersnap-7abdcf.netlify.app 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
